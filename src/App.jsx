@@ -9,7 +9,7 @@ const SERVICE_OPTIONS = [
   { value: 'portao', label: 'Portão deslizante' },
   { value: 'portao_social', label: 'Portão social' },
 /*   { value: 'grade', label: 'Grade' },
-  { value: 'corrimao', label: 'Corrimão' },npm
+  { value: 'corrimao', label: 'Corrimão' },
   { value: 'estrutura', label: 'Estrutura' },
   { value: 'outro', label: 'Outro' }, */
 ]
