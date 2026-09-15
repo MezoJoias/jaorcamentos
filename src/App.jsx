@@ -8,10 +8,10 @@ import { calcularPortaoSocial } from './regras/portaoSocial'
 const SERVICE_OPTIONS = [
   { value: 'portao', label: 'Portão deslizante' },
   { value: 'portao_social', label: 'Portão social' },
-  { value: 'grade', label: 'Grade' },
-  { value: 'corrimao', label: 'Corrimão' },
+/*   { value: 'grade', label: 'Grade' },
+  { value: 'corrimao', label: 'Corrimão' },npm
   { value: 'estrutura', label: 'Estrutura' },
-  { value: 'outro', label: 'Outro' },
+  { value: 'outro', label: 'Outro' }, */
 ]
 const STATUS_OPTIONS = [
   { value: 'aberto', label: 'Em aberto' },
